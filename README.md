@@ -1,4 +1,25 @@
 # SEM12
+IDENTIFICADOR: Nombre que se le asigna a una variable
+INSTANCIA: OBjeto o entidad que se crea a partir de una clase
+clase: plantilla o molde
+Metodos:
+Procedimiento: No retorna un valor
+Funcion: puede retornar un valor
+<Nombre de clase> [nombre_instancia]= new <Constructor de clase()>
+Privado: solamente elementos de la misma clase
+Protegido: Elementos de la clase y clases hijas
+A traves del constructor se genera instancia de clase
+Getters: Obtienn datos
+Setters: Modifican datos
+Sobrecarga de metodos es un tipo de polimorfismo
+PILARES: Abstraccion Encapsulamiento Herencia Polimorfismo
+Cardinalidad: cantidad de objetos que pueden relacionar con una instancia de clase
+Relacion Asociativa Unidireccional
+Sujeto emisor clase activa
+Obejto receptor clase pasiva
+
+
+
 AUTOMOVIL
 
 public class Automovil extends Vehiculo{
